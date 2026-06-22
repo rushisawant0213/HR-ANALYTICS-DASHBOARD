@@ -47,7 +47,8 @@ The HR Analytics Dashboard is designed to analyze employee data and provide insi
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
+- Microsoft ExceL
+- 
 
 ## Business Insights.
 - Identify key factors contributing to employee attrition.
